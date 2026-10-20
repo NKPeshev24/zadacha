@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\nkpeshev24\\source\\repos\\consoleapplication1\\consoleapplication2\\foo.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\nkpeshev24\\source\\repos\\consoleapplication1\\consoleapplication2\\foo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
